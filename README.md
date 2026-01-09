@@ -1,12 +1,5 @@
-# I’m Taif — fueled by caffeine, curiosity & Ctrl + Z
 
 🌍  Based in New Delhi, India  
-🧠  Always Alt + Tabbing between ideas, projects, and docs  
-💻  Aspiring Full-Stack Developer — focused on the MERN stack, currently diving into backend  
-🧱  Background in C and Python | Frontend specialist evolving into a complete dev  
-
-⚡ Let’s talk code, coffee, or chaos.
-
 ---
 
 ## 🛠️ TECH STACK
@@ -33,13 +26,6 @@
 [<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="50"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>](https://www.javascript.com/)
 
----
-
-## 📈 Currently Learning
-
-- 🟢 **Node.js**, **Express.js** & **MongoDB** for backend development  
-- 🧠 Strengthening MERN stack knowledge with hands-on projects and API design  
-- 🌐 Exploring full-stack architecture and deployment workflows  
 
 ---
 
