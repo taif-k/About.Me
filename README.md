@@ -18,7 +18,7 @@
 [<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>](https://git-scm.com/)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50"/>](https://github.com/)
 [<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
-[<img src="https://en.wikipedia.org/wiki/Jira_(software)#/media/File:Jira_Logo.svg" alt="Jira" width="50"/>](https://en.wikipedia.org/wiki/Jira_(software))
+[<img src="https://s3-alpha.figma.com/hub/file/4810336899/0b17d3e3-cdfb-403a-afc8-a49fd066977a-cover.png" alt="Jira" width="50"/>](https://en.wikipedia.org/wiki/Jira_(software))
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Agile_manifesto_logo.svg" alt="Agile" width="50"/>](https://document360.com/blog/agile-documentation/)
 
 ### 🧠 Languages
