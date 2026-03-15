@@ -14,7 +14,12 @@
 [<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS/SCSS" width="50"/>](https://sass-lang.com/)
-[<img src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg" alt="Figma" width="50"/>](https://www.figma.com/)
+[<img src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.jpg" alt="Figma" width="50"/>](https://www.figma.com/)  
+
+### 🛢️ Backend  
+[<img src="https://www.developer-tech.com/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDb" width="50"/>](https://www.mongodb.com/)
+[<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="expressJs" width="50"/>](https://expressjs.com/)
+[<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpsamnvmebbdbyfdjy63q.png" alt="NodeJs" width="50"/>](https://nodejs.org/en)
 
 ### 🔧 Tools & Workflow
 [<img src="https://cdn.brandfetch.io/domain/jira.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
