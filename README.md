@@ -22,7 +22,7 @@
 [<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpsamnvmebbdbyfdjy63q.png" alt="NodeJs" width="100" height="100"/>](https://nodejs.org/en)
 
 ### 🔧 Tools & Workflow
-[<img src="https://cdn.brandfetch.io/domain/jira.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
+[<img src="https://www.atlassian.com/software/jira/guides/getting-started/introduction" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50"/>](https://github.com/)
 [<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
 [<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>](https://git-scm.com/)
