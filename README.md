@@ -41,12 +41,12 @@ Professional Communication | Team Collaboration | Problem Solving | Fast-Learner
 ---
 
 ## 🏆 LEARNING
-- [GitHub Repo for Stack Wise ](https://github.com/taif-k/2025)  
+- [GitHub (Technology-wise learning and practice)](https://github.com/taif-k/python-webdev-learning)  
 
 ## 🚀 Projects
 
 ### [Task Manager App](https://task-manager-figma.netlify.app/auth/sign-in)
-🛠 React | Redux | React Bootstrap | SCSS |  
+🛠 React | Redux | React Bootstrap | MongoDb | Express.Js | Node.Js |SCSS |  
 A jira/kanban dashboard where you can create New Cards in "New Task", "In Progress" & "Done" & also DRAG & DROP which updates in real time in Recent Activity Component also using Redux.
 
 ### [Food Ordering App](https://foodorderappbytaif.netlify.app/)
