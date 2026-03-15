@@ -18,7 +18,7 @@
 
 ### 🛢️ Backend  
 [<img src="https://www.developer-tech.com/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDb" width="50"/>](https://www.mongodb.com/)
-[<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="expressJs" width="50"/>](https://expressjs.com/)
+[<img src="https://media.licdn.com/dms/image/v2/D4D12AQFutpP9wVAeIg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718341193276?e=2147483647&v=beta&t=em32ZEf75gBr8vAQNo5G4jFIyqZqS3Iwtv3790z0-rA" alt="expressJs" width="60"/>](https://expressjs.com/)
 [<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpsamnvmebbdbyfdjy63q.png" alt="NodeJs" width="50"/>](https://nodejs.org/en)
 
 ### 🔧 Tools & Workflow
